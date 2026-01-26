@@ -16,13 +16,13 @@ function App() {
     <>
       <HeroPage />
       <About />
-      <FAQ />
       <Schedule />
       <TracksPage />
       {/* <Events />
       <Judges />
-      <Sponsors />
-      <Footer />  */}
+      <Sponsors /> */}
+      <FAQ />
+      {/* <Footer />  */}
     </>
   );
 }
