@@ -2,7 +2,7 @@ import React from 'react';
 
 const HomePage = () => {
   return (
-    <div className="relative min-h-screen w-full bg-[#0a0514] text-white font-sans overflow-hidden flex flex-col items-center justify-center p-6">
+    <div className="relative min-h-screen w-full bg-[#0a0514] text-white font-sans overflow-hidden flex flex-col items-center justify-center p-6 pt-24">
       
       {/* Background Layer: Image Overlay */}
       <div 
