@@ -19,7 +19,7 @@ function App() {
       <TracksPage />
       <Events />
       <FAQ />
-    {/* <Judges />
+      {/* <Judges />
       <Sponsors />
       <Footer /> */}
     </>
